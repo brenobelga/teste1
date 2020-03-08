@@ -1,1 +1,2 @@
 git init = iniciar repositório (somente uma vez);
+bla bla bla
