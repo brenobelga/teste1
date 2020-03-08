@@ -1,2 +1,3 @@
-git init = iniciar reposit�rio (somente uma vez);
+git init = iniciar repositório (somente uma vez);
 bla bla bla
+lucas é um bom professor
